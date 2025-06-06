@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-ready-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-Proyecto final de la asignatura **Algoritmos** – 2025  
+Proyecto final de la asignatura **Introduccion a los Sistemas de computo** – 2025  
 Repositorio público con el código fuente y la documentación completa (usuario y técnica).
 
 ---
