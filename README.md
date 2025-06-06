@@ -12,14 +12,7 @@ Repositorio público con el código fuente y la documentación completa (usuario
 1. [Descripción general](#descripción-general)
 2. [Características principales](#características-principales)
 3. [Requisitos](#requisitos)
-4. [Estructura del repositorio](#estructura-del-repositorio)
-5. [Instalación y uso rápido](#instalación-y-uso-rápido)
-6. [Capturas de pantalla](#capturas-de-pantalla)
-7. [Documentación](#documentación)
-8. [Cómo contribuir](#cómo-contribuir)
-9. [Preguntas frecuentes](#preguntas-frecuentes)
-10. [Créditos](#créditos)
-11. [Licencia](#licencia)
+
 
 ---
 
@@ -57,12 +50,3 @@ Todo se controla mediante un menú simple, pensado para practicar estructuras de
 
 ---
 
-## Estructura del repositorio
-```text
-calculadora/
-├─ Calculadora_Final.psc        # Código fuente principal
-├─ docs/
-│   ├─ manual-tecnico.pdf       # Manual técnico (instalación y mantenimiento)
-│   ├─ manual-usuario.pdf       # Manual de usuario (guía paso a paso)
-│   └─ diagrama-bloques.png     # Diagrama de bloques de la arquitectura
-└─ README.md                    # Este archivo
