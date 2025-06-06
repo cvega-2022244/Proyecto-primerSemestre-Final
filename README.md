@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-ready-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-Proyecto final de la asignatura **Introduccion a los sistemas de computo** – 2025  
+Proyecto final de la asignatura **Algoritmos** – 2025  
 Repositorio público con el código fuente y la documentación completa (usuario y técnica).
 
 ---
@@ -57,3 +57,12 @@ Todo se controla mediante un menú simple, pensado para practicar estructuras de
 
 ---
 
+## Estructura del repositorio
+```text
+calculadora/
+├─ Calculadora_Final.psc        # Código fuente principal
+├─ docs/
+│   ├─ manual-tecnico.pdf       # Manual técnico (instalación y mantenimiento)
+│   ├─ manual-usuario.pdf       # Manual de usuario (guía paso a paso)
+│   └─ diagrama-bloques.png     # Diagrama de bloques de la arquitectura
+└─ README.md                    # Este archivo
